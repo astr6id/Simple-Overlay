@@ -27,3 +27,11 @@ AWESOME You have setup Simple Overlay.
 
 # Discord
 If you need help setting up please message Lifeport.z on discord.
+
+---
+
+# Coming Soon!
+```
+NVIDIA SUPPORT
+Coloured Temps so you can activly see how hot or how much something is / IS being used.
+```
