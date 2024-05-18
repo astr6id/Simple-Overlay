@@ -9,6 +9,9 @@ The overlay includes:
 > GPU TEMPS
 > RAM USAGE
 ```
+
+<img src="https://i.ibb.co/q1wR4bj/Simple-Overlay-blank.png">
+
 ---
 
 # MSI Afterburner!
