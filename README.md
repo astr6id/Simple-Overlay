@@ -26,4 +26,4 @@ AWESOME You have setup Simple Overlay.
 ---
 
 # Discord
-If you need help with setting it up please message Lifeport.z on discord.
+If you need help setting up please message Lifeport.z on discord.
