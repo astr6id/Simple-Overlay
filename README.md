@@ -22,7 +22,14 @@ This program requires you to use msi afterburner! You must make an output path t
 > CPU1 temperature
 > RAM usage
 ```
+
+<img src="https://i.ibb.co/vxr6mft/GPU.png">
+
+<img src="https://i.ibb.co/mvKTpTP/MSI.png">
+
 Once you have turned on Log History To file and created your satistics.txt please open up Simple overlay and in the settings please select the txt with the browse function.
+<img src="https://i.ibb.co/WxYnzrB/SO-Settings.png">
+
 
 AWESOME You have setup Simple Overlay.
 
