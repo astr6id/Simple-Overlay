@@ -22,3 +22,8 @@ This program requires you to use msi afterburner! You must make an output path t
 Once you have turned on Log History To file and created your satistics.txt please open up Simple overlay and in the settings please select the txt with the browse function.
 
 AWESOME You have setup Simple Overlay.
+
+---
+
+# Discord
+If you need help with setting it up please message Lifeport.z on discord.
